@@ -1,0 +1,51 @@
+@import url('https://fonts.googleapis.com/css2?family=Bungee&family=Itim&display=swap');
+
+body {
+    font-family: "Itim", cursive;
+    background-color: khaki;
+}
+
+.zag {
+    background-color: #FFCE00;
+    margin: auto;
+    padding: 20px;
+    border-radius: 30px;
+}
+
+h2 {
+    background-color: #F6C500;
+    border-radius: 20px;
+    padding: 10px;
+    text-align: center;
+}
+
+.roz {
+    background-color: #FFDD55;
+    border-radius: 30px;
+}
+
+.opisanie {
+    padding: 5px;
+    text-align: center;
+}
+
+nav {
+    background-color: #FFDD55;
+    border-radius: 20px;
+    margin: 15px auto;
+    padding: 10px;
+    text-align: center;
+}
+
+nav a {
+    color: black;
+    padding: 10px;
+    margin: 30px;
+    text-decoration: none;  
+}
+
+nav a:hover {
+    border-radius: 20px;
+    color: #F6C500;
+    transition: 0.3s ease-in-out;
+}
